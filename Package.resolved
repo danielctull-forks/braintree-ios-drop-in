@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Braintree",
-        "repositoryURL": "https://github.com/braintree/braintree_ios",
+        "repositoryURL": "https://github.com/danielctull-forks/braintree_ios",
         "state": {
-          "branch": null,
-          "revision": "6be5b6ceabe6acf3353a986da272bc604c8cd010",
-          "version": "5.4.2"
+          "branch": "master",
+          "revision": "d1130df53140b84c2cc35ba52a2183c38ea291ef",
+          "version": null
         }
       }
     ]
